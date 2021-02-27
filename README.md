@@ -1,4 +1,4 @@
-####### This repo no longer maintenance #########
+
 
 👉 Please check [here](https://github.com/kzjn10/Flutter_Bloc_Movie_2) to see new The movie app architecture.
 
